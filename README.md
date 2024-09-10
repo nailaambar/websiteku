@@ -1,2 +1,1 @@
-# websiteku
-Hallo ini website saya
+Website saya berisi tentang profil profil tentang saya dan riwayat saya.
